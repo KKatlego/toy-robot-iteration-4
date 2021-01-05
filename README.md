@@ -1,4 +1,4 @@
-# Toy robot 4
+# Toy Robot 4
 Fourth iteration of toy robot with updates.
 
 * Toy robot is a program desgined to receive user input for movement of a robot such as forward, back, right, left.
@@ -14,8 +14,8 @@ Fourth iteration of toy robot with updates.
 ### To Run
 
 * `python3 robot.py`
-* use command argument `python3 robot text` to get the text output.
-* use command argument `python3 robot turtle` to get the visual turtle output.
+* use command line argument `python3 robot.py text` to get the text output.
+* use command line argument `python3 robot.py turtle` to get the visual turtle output.
 * follow the input prompts to get the desired output.
 * type help to see all valid commands.
 
